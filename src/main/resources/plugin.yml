@@ -1,0 +1,4 @@
+name: JavaLCFTest
+version: '${project.version}'
+main: org.lupus.javalcftest.JavaLCFTest
+api-version: 1.19
